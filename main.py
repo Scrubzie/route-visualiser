@@ -8,7 +8,7 @@ Arguments
 
 Example:
 
-When in src directory (cd src), assuming you have a src/data folder containing all the objects, call
+You should have a folder named "data" that contains all the files you want to read
 - python main.py "Locations.json" "Locations_route.json"
 """
 
