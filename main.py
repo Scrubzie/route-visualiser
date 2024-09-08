@@ -9,7 +9,7 @@ Arguments
 Example:
 
 When in src directory (cd src), assuming you have a src/data folder containing all the objects, call
-- python3 visualise_deliveries.py "Locations.json" "Locations_route.json"
+- python main.py "Locations.json" "Locations_route.json"
 """
 
 import json
